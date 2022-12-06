@@ -1,0 +1,5 @@
+{
+  "updateDescription.updatedFields.revision": { "$exists": false },
+  "updateDescription.updatedFields.validFrom": { "$exists": false },
+  "updateDescription.updatedFields.originId": { "$exists": false }
+}
